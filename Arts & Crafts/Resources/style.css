@@ -1,0 +1,39 @@
+.main-banner{
+  background-image: url("./resources/pattern.jpeg;")
+  font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    color: khaki;
+  }
+
+#brushes {
+  background-color: mediumspringgreen;
+  font-family: Helvetica;
+  font-weight: bold;
+  color: white;
+}
+
+#frames {
+  background-color: lightcoral;
+  font-family: Helvetica;
+  font-weight: bold;
+  color: white;
+}
+
+#paint {
+  background-color: skyblue;
+  font-family: Helvetica;
+  font-weight: bold;
+  color: white;
+}
+
+.main-banner {
+  background-image: url("./Pattern.jpeg");
+}
+
+#tail {
+  color: blue;
+  font-family: Helvetica;
+  font-weight: bold;
+}
